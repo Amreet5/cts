@@ -1,0 +1,167 @@
+*****Walmart Store******
+208 Womack Street apt 25
+Starkville, MS-39759, US
+Monday,  Nov-18-2019
+Time: 18:26:34
+Store ID: 1
+
+Transaction id: 0000000000
+
+Item : Taxable Item, Quantity : 8, Price : $ 77.0
+Item : Non-Taxable Item, Quantity : 1, Price : $ 78.0
+Item : Non-Taxable Item, Quantity : 4, Price : $ 77.0
+Item : Non-Taxable Item, Quantity : 1, Price : $ 77.0
+Item : Taxable Item, Quantity : 1, Price : $ 773.0
+Payment Type : Card Transaction
+Total tax: $ 97.23, Total: $ 1949.23
+Change: $ 0.0
+**********************************************************************************
+*****Walmart Store******
+208 Womack Street apt 25
+Starkville, MS-39759, US
+Monday,  Nov-18-2019
+Time: 18:27:21
+Store ID: 1
+
+Transaction id: 0000000001
+
+Item : Non-Taxable Item, Quantity : 1, Price : $ 45.0
+Item : Taxable Item, Quantity : 1, Price : $ 44.0
+Item : Taxable Item, Quantity : 1, Price : $ 1.0
+Item : Non-Taxable Item, Quantity : 1, Price : $ 2.0
+Payment Type : Cash
+Total tax: $ 3.15, Total: $ 95.15
+Change: $ 304.85
+**********************************************************************************
+*****Walmart Store******
+208 Womack Street apt 25
+Starkville, MS-39759, US
+Monday,  Nov-18-2019
+Time: 19:35:44
+
+Store ID: 2
+Transaction id: 0000000002
+
+Item : Taxable Item, Quantity : 1, Price : $ 77.0
+Item : Non-Taxable Item, Quantity : 1, Price : $ 77.0
+Payment Type : Cash
+Total tax: $ 5.39, Total: $ 159.39
+Change: $ 40.61
+**********************************************************************************
+*****Walmart Store******
+208 Womack Street apt 25
+Starkville, MS-39759, US
+Monday,  Nov-18-2019
+Time: 19:35:50
+
+Store ID: 2
+Transaction id: 0000000003
+
+Item : Taxable Item, Quantity : 1, Price : $ 77.0
+Payment Type : Card Transaction
+Total tax: $ 5.39, Total: $ 82.39
+Change: $ 0.0
+**********************************************************************************
+*****Walmart Store******
+208 Womack Street apt 25
+Starkville, MS-39759, US
+Tuesday,  Nov-19-2019
+Time: 18:58:33
+
+Store ID: 1
+Transaction id: 0000000004
+
+Item : Taxable Item, Quantity : 1, Price : $ 78.0
+Item : Taxable Item, Quantity : 1, Price : $ 555.0
+Item : Taxable Item, Quantity : 1, Price : $ 222.0
+Payment Type : Card Transaction
+Total tax: $ 59.85, Total: $ 914.85
+Change: $ 0.0
+**********************************************************************************
+*****Walmart Store******
+208 Womack Street apt 25
+Starkville, MS-39759, US
+Tuesday,  Nov-19-2019
+Time: 19:02:43
+
+Store ID: 1
+Transaction id: 0000000005
+
+Item : Taxable Item, Quantity : 1, Price : $ 755.0
+Item : Taxable Item, Quantity : 1, Price : $ 2.0
+Payment Type : Cash
+Total tax: $ 52.99, Total: $ 809.99
+Change: $ 3690.01
+**********************************************************************************
+*****Walmart Store******
+208 Womack Street apt 25
+Starkville, MS-39759, US
+Tuesday,  Nov-19-2019
+Time: 12:38:31
+
+Store ID: 1
+Transaction id: 0000000006
+
+Item : Taxable Item, Quantity : 1, Price : $ 77.0
+Item : Taxable Item, Quantity : 1, Price : $ 5.0
+Payment Type : Cash
+Total tax: $ 5.74, Total: $ 87.74
+Change: $ 2.26
+**********************************************************************************
+*****Walmart Store******
+208 Womack Street apt 25
+Starkville, MS-39759, US
+Tuesday,  Nov-19-2019
+Time: 12:46:00
+
+Store ID: 1
+Transaction id: 0000000007
+
+Item : Taxable Item, Quantity : 1, Price : $ 105.0
+Payment Type : Cash
+Total tax: $ 7.35, Total: $ 112.35
+Change: $ 7.65
+**********************************************************************************
+*****Walmart Store******
+208 Womack Street apt 25
+Starkville, MS-39759, US
+Wednesday,  Nov-20-2019
+Time: 15:43:32
+
+Store ID: 1
+Transaction id: 0000000008
+
+Item : Taxable Item, Quantity : 1, Price : $ 25.0
+Item : Non-Taxable Item, Quantity : 1, Price : $ 52.0
+Payment Type : Cash
+Total tax: $ 1.75, Total: $ 78.75
+Change: $ 1.25
+**********************************************************************************
+*****Walmart Store******
+208 Womack Street apt 25
+Starkville, MS-39759, US
+Wednesday,  Nov-20-2019
+Time: 15:46:24
+
+Store ID: 1
+Transaction id: 0000000009
+
+Item : Taxable Item, Quantity : 1, Price : $ 58.0
+Payment Type : Cash
+Total tax: $ 4.06, Total: $ 62.06
+Change: $ 2.94
+**********************************************************************************
+*****Walmart Store******
+208 Womack Street apt 25
+Starkville, MS-39759, US
+Wednesday,  Nov-20-2019
+Time: 16:51:49
+
+Store ID: 1
+Transaction id: 0000000010
+
+Item : Taxable Item, Quantity : 1, Price : $ 54.0
+Payment Type : Cash
+Total tax: $ 3.78, Total: $ 57.78
+Change: $ 2.22
+**********************************************************************************

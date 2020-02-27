@@ -1,0 +1,9 @@
+CTSadministrator
+ProjectSHA256
+
+    def resource_path(self, relative_path):
+        base_path = getattr(sys, '_MEIPASS', os.path.dirname(os.path.abspath(__file__)))
+        return os.path.join(base_path, relative_path)
+
+        image_path = self.resource_path("cash-register.png")
+        icon.addPixmap(QtGui.QPixmap(image_path), QtGui.QIcon.Normal, QtGui.QIcon.Off)

@@ -1,0 +1,8 @@
+
+    def search_by_transaction(self, x):
+        connection = sqlite3.connect("CTS.db")
+        cursor = connection.cursor()
+        cursor.execute("SELECT * FROM CST_ID where Transaction_ID = ?", x)
+        result1 = cursor.fetchall()
+        cursor.execute("SELECT * FROM Trans_details where Transaction_ID = ?", x)
+        result2 = cursor.fetchall()
